@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "name": "AI赋能流程管理 - Skills市场索引",
+    "version": "1.0.0",
+    "lastUpdated": "2026-03-26",
+    "totalSkills": 0,
+    "categories": 8
+  },
+  "categories": {
+    "ipd": {
+      "name": "IPD集成产品开发",
+      "description": "产品管理、需求分析、研发管理、项目管理",
+      "icon": "🚀",
+      "skills": []
+    },
+    "ltc": {
+      "name": "LTC线索到现金",
+      "description": "销售管理、营销自动化、客户管理、合同管理",
+      "icon": "💰",
+      "skills": []
+    },
+    "itr": {
+      "name": "ITR问题到解决",
+      "description": "客户服务、工单管理、售后支持、技术支持",
+      "icon": "🔧",
+      "skills": []
+    },
+    "hr": {
+      "name": "人力资源管理",
+      "description": "招聘、培训、绩效、薪酬、员工管理",
+      "icon": "👥",
+      "skills": []
+    },
+    "finance": {
+      "name": "财经管理",
+      "description": "财务、会计、预算、成本、资金管理",
+      "icon": "💹",
+      "skills": []
+    },
+    "strategy": {
+      "name": "战略管理",
+      "description": "战略规划、竞争分析、市场研究、投资决策",
+      "icon": "🎯",
+      "skills": []
+    },
+    "general": {
+      "name": "通用工具",
+      "description": "开发工具、协作工具、自动化工具、AI Agent",
+      "icon": "🛠️",
+      "skills": []
+    },
+    "mcp": {
+      "name": "MCP服务器",
+      "description": "Model Context Protocol服务器、AI工具集成",
+      "icon": "🔌",
+      "skills": []
+    }
+  }
+}
